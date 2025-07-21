@@ -1,6 +1,6 @@
 # Parkinsons-Disease-detection-Model
 This project implements a machine learning model to predict the presence of Parkinson's disease based on various biomedical voice measurements.
-mport pandas as pd
+import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
